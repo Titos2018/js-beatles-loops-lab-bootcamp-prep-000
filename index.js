@@ -7,7 +7,7 @@ const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 function theBeatlesPlay(musicians,instruments){
   var band=[];
 
-for (band=musicians[0]plays insturments[0];band++);
+for (band=musicians[0];band=instruments[0];band++);
  {
 
   return (band)
